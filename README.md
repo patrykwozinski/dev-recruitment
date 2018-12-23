@@ -19,6 +19,11 @@ Inspiracją było repozytorium <a href="https://github.com/trimstray/test-your-s
 ## O projekcie
 Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać się w najbliższym czasie na rozmowy rekrutacyjne, a także osoby, które je przeprowadzają od strony technicznej.
 
+<br>
+
+***
+
+<br>
 
 ## Pytania rekrutacyjne
 
