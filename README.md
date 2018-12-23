@@ -16,10 +16,7 @@ Inspiracją było repozytorium <a href="https://github.com/trimstray/test-your-s
 Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać się w najbliższym czasie na rozmowy rekrutacyjne, a także osoby, które je przeprowadzają od strony technicznej.
 
 
-## Pytania miękkie
-...
-
-## Wiedza ogólna
+## Pytania rekrutacyjne
 
 
 ### 👨‍🎓 Junior Software Developer
