@@ -18,6 +18,7 @@ Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać 
 
 ## Wiedza ogólna
 
+
 ### 👨‍🎓 Junior Software Developer
 
 ###### PHP (1)
@@ -30,11 +31,12 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 
 ###### Testowanie aplikacji (1)
 <details>
-  <summary><b>Jaka jest różnica pomiędzy setUp() i setUpBeforeClass() w testach?</b></summary><br>
+  <summary><b>Jaka jest różnica pomiędzy <code>setUp()</code> i <code>setUpBeforeClass()</code> w testach?</b></summary><br>
   
   - `setUp()` jest to metoda odpalana przed każdym kolejnym testem, po nim zaś wywoływane jest `tearDown()`
   - `setUpBeforeClass()` to metoda, która wywoływana jest przed wszystkimi testami z danej klasy testowej i po przejściu wszystkich testów uruchamiane jest `tearDownAfterClass()`
 </details>
+
 
 ### 👨‍💻 Regular Software Developer
 
@@ -93,6 +95,7 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   
   **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
 </details>
+
 
 ### 👨‍🏫 Senior Software Developer
 
