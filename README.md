@@ -1,6 +1,6 @@
 # dev-skills-questions
 <p align="center">
-> "I'm not a great programmer; I'm just a good programmer with great habits." ~ K. Beck
+  "<i>I'm not a great programmer; I'm just a good programmer with great habits.</i>" ~ K. Beck
 </p>
 
 <p align="center">
