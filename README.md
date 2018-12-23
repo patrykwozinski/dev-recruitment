@@ -52,3 +52,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 
 ### 👨‍🚀 Senior Software Developer
 
+<details>
+  <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
+  
+  Zachowaniem obiektu nie jest setowanie wartości, ale jest nim przykładowo `document->reassign(owner)` <- czyli coś, co mogłoby stać się z żywym obiektem.
+  
+</details>
