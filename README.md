@@ -8,7 +8,7 @@
 
 <p align="center">
 <sub>
-  Inspiracją do utworzenia poniższego zbioru pytań i odpowiedzi było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a> (autorstwa <a href="https://github.com/trimstray">@trimstray</a>). Wersję dla developerów przygotował <a href="https://github.com/patrykwozinski">@patrykwozinski</a>.
+  Inspiracją do utworzenia poniższego zbioru pytań i odpowiedzi było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a> (autorstwa <a href="https://github.com/trimstray">@trimstray</a>). Wersję dla developerów przygotował <a href="https://github.com/patrykwozinski">@patrykwozinski</a>. Wszelkie sugestie zmian, nowych pytań czy uzupełnień odpowiedzi bardzo miło widziane.
 </sub>
 </p>
 
