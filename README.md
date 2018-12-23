@@ -20,6 +20,7 @@ Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać 
 
 ### 👨‍🎓 Junior Software Developer
 
+###### PHP
 <details>
 <summary><b>Jakie znasz sposoby dziedziczenia w PHP?</b></summary><br>
 
@@ -27,6 +28,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   
 </details>
 
+###### Testowanie aplikacji
 <details>
   <summary><b>Jaka jest różnica pomiędzy setUp() i setUpBeforeClass() w testach?</b></summary><br>
   
@@ -36,6 +38,8 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 
 ### 👨‍💻 Regular Software Developer
 
+###### Testowanie aplikacji
+
 <details>
   <summary><b>Czy znasz jakieś przykłady Test Double?</b></summary><br>
 
@@ -43,28 +47,24 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 </details>
 
 <details>
-  <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
-  
-Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono założenia poszukiwania usera. W niższych klasach należy to odpowiednio obsłużyć. Inną opcją jest zwrócenie `null`. Odpowiedzi takie jak: pusta klasa user, pusta lista, pusty array, `false` - to błąd.
-</details>
-
-<details>
   <summary><b>Czy zasady związane z jakością oprogramowania dotyczą również testów?</b></summary><br>
   
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
   </details>
+
+###### Object Oriented Programming
+
+<details>
+  <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
+  
+Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono założenia poszukiwania usera. W niższych klasach należy to odpowiednio obsłużyć. Inną opcją jest zwrócenie `null`. Odpowiedzi takie jak: pusta klasa user, pusta lista, pusty array, `false` - to błąd.
+</details>
   
  <details>
   <summary><b>Kiedy warto oznaczyć klasę jako finalną i w czym to pomaga?</b></summary><br>
   
   W momencie, gdy klasa jest już konkretną - dziedziczy po abstract lub implementuje interfejs. Blokuje to zbędne poziomy dziedziczenia i wymusza kompozycję.
 </details> 
-
-<details>
-  <summary><b>Czym jest CQRS i jakie korzyści płyną z jego wykorzystania?</b></summary><br>
-  
-  **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
-</details>
 
 <details>
   <summary><b>Jakie są zalety korzystania z NullObject pattern?</b></summary><br>
@@ -78,6 +78,16 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   Ukrywają one implementacje konkretnych zachowań używających natywnych funkcji języka, nadają wyższy poziom abstrakcji.
 </details>  
 
+###### Architektura aplikacji
+
+<details>
+  <summary><b>Czym jest CQRS i jakie korzyści płyną z jego wykorzystania?</b></summary><br>
+  
+  **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
+</details>
+
+###### PHP
+
 <details>
   <summary><b>Czy znasz jakiś przykład, gdzie można zastosować klasy anonimowe w PHP?</b></summary><br>
   
@@ -85,6 +95,8 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 ### 👨‍🏫 Senior Software Developer
+
+###### Object Oriented Programming
 
 <details>
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
