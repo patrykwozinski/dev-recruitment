@@ -10,7 +10,11 @@
 Inspiracją było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a>. Wersja dla developerów została utworzona przez: <a href="https://github.com/patrykwozinski">@patrykwozinski</a>.
 </p>
 
-<hr>
+<br>
+
+***
+
+<br>
 
 ## O projekcie
 Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać się w najbliższym czasie na rozmowy rekrutacyjne, a także osoby, które je przeprowadzają od strony technicznej.
