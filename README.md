@@ -7,12 +7,20 @@
 </p>
 
 <p align="center">
-Inspiracją było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a>. Wersja dla developerów została utworzona przez: <a href="https://github.com/patrykwozinski">@patrykwozinski</a>. Wszelkie wspieranie projektu i dodawanie sugestii bardzo miło widziane.
+<sub>Inspiracją było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a> (autorstwa <a href="https://github.com/trimstray">@trimstray</a>). Wersja dla developerów została utworzona przez: <a href="https://github.com/patrykwozinski">@patrykwozinski</a>. Wszelkie wspieranie projektu i dodawanie sugestii bardzo miło widziane.</sub>
 </p>
 
 <br>
 
 ***
+
+<br>
+
+:heavy_check_mark: &nbsp;Pytania są jedynie przykładami oraz początkowym wdrożeniem do tematu. Całkowite wyczerpanie tematu możliwe jest po wyszukaniu materiałów na własną rękę.
+
+:warning: &nbsp;Pytania oznaczone **`***`** nie posiadają odpowiedzi, lub jest ona niekompletna. Miło widziane w takich przypadkach jest wystawienie **pull requestów** z sugerowanym rozwiązaniem problemów.
+
+:traffic_light: &nbsp;W sytuacji, gdy znajdziesz pytanie, które nie ma większego sensu, lub zawiera nieprawidłowości w odpowiedzi - zrób pull request z sugerowanymi zmianami i stań się kontrybutorem projektu.
 
 <br>
 
