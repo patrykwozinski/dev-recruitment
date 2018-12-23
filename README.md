@@ -63,6 +63,13 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
 </details>
 
+<details>
+  <summary><b>Jakie są zalety korzystania z NullObject pattern?</b></summary><br>
+  
+  Jest to świetne rozwiązanie problemu walki z wszędobylskimi nullami, odpalania metod na nullach i budowy wielu zbędnych ifów.
+  
+</details>
+
 ### 👨‍🚀 Senior Software Developer
 
 <details>
