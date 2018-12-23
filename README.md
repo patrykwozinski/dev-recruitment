@@ -126,8 +126,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 <details>
-  <summary><b>Jaka jest różnica pomiędzy Active Records a ORM? ***</b></summary><br>
+  <summary><b>Jaka jest różnica między Active Records a ORM? Jakie są plusy i minusy korzystania z tych podejść? ***</b></summary><br>
   
+  :warning: Brak odpowiedzi. Utwórz pull request i stań się kontrybutorem!
 </details>
 
 
