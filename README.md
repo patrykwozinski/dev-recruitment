@@ -70,7 +70,7 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   
 </details>
 
-### 🧙‍ Senior Software Developer
+### 👨‍🏫 Senior Software Developer
 
 <details>
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
