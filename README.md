@@ -18,7 +18,7 @@ Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać 
 
 ## Wiedza ogólna
 
-### 👨‍🚀 Junior Software Developer
+### 👨‍🎓 Junior Software Developer
 
 <details>
 <summary><b>Jakie znasz sposoby dziedziczenia w PHP?</b></summary><br>
@@ -27,7 +27,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   
 </details>
 
-### 👨‍🚀 Regular Software Developer
+### 👨‍💻 Regular Software Developer
 
 <details>
   <summary><b>Czy znasz jakieś przykłady Test Double?</b></summary><br>
@@ -70,7 +70,7 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   
 </details>
 
-### 👨‍🚀 Senior Software Developer
+### 🧙‍♂️ Senior Software Developer
 
 <details>
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
