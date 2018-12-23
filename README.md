@@ -125,6 +125,11 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
 </details>
 
+<details>
+  <summary><b>Jaka jest różnica pomiędzy Active Records a ORM? ***</b></summary><br>
+  
+</details>
+
 
 ### 👨‍🏫 Senior Software Developer
 
