@@ -108,6 +108,15 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
  Jednym z zestawów zasad związanych z obiektowością jest **GRASP** - General Responsibility Assignment Software Principles, który składa się z dziewięciu reguł traktujących o tym w jaki sposób projektować kod i odpowiedzieć sobie na pytania: gdzie umieścić jakąś odpowiedzialność, do kogo przypisać odpowiedzialność, jak kierować zależności i wiele innych.
 </details>
 
+<details>
+  <summary><b>Jakie istnieją typy wzorców projektowych?</b></summary><br>
+  
+  Wzorce projektowe (design patterns) dzielą się na trzy typy:
+  - wzorce kreacyjne (creational patterns)
+  - wzorce strukturalne (structural patterns)
+  - wzorce czynnościowe (behavioral patterns)
+</details>
+
 ###### Architektura aplikacji (1)
 
 <details>
