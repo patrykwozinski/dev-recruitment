@@ -20,7 +20,7 @@
 
 :heavy_check_mark: &nbsp;Pytania są jedynie przykładami oraz początkowym wdrożeniem do tematu. Całkowite wyczerpanie tematu możliwe jest po wyszukaniu materiałów na własną rękę.
 
-:warning: &nbsp;Pytania oznaczone **`***`** nie posiadają odpowiedzi, lub jest ona niekompletna. Miło widziane w takich przypadkach jest wystawienie **pull requestów** z sugerowanym rozwiązaniem problemów.
+:warning: &nbsp;Pytania oznaczone **`***`** nie posiadają odpowiedzi, lub są one niekompletne. Miło widziane w takich przypadkach jest wystawienie **pull requestów** z sugerowanym rozwiązaniem problemów.
 
 :traffic_light: &nbsp;W sytuacji, gdy znajdziesz pytanie, które nie ma większego sensu, lub zawiera nieprawidłowości w odpowiedzi - zrób pull request z sugerowanymi zmianami i stań się kontrybutorem projektu.
 
