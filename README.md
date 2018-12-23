@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-Inspired by ["Test your admin skills"](https://github.com/trimstray/test-your-sysadmin-skills) and created by [patrykwozinski](https://github.com/patrykwozinski).
+Inspired by <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a> and created by <a href="https://github.com/patrykwozinski">@patrykwozinski</a>.
 </p>
