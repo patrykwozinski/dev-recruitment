@@ -109,10 +109,16 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 
 ### 👨‍🏫 Senior Software Developer
 
-###### Object Oriented Programming (1)
+###### Object Oriented Programming (2)
 
 <details>
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
   
-  Zachowaniem obiektu nie jest setowanie wartości, ale jest nim przykładowo `document->reassign(owner)` <- czyli coś, co mogłoby stać się z żywym obiektem.
+  Zachowaniem obiektu nie jest puste ustawianie wartości, ale jest nim przykładowo `document->reassign(owner)` <- czyli coś, co mogłoby stać się z żywym obiektem.
+</details>
+
+<details>
+  <summary><b>Jakie są minusy dodawania prefixów metod <code>get</code> / <code>set</code> w publicznych metodach obiektów?</b></summary><br>
+  
+  Dodawanie prefixów takich jak `get` czy `set` blokuje nam możliwość czytania odpowiedzialności klas oraz ich cech. Gettery i settery to naleciałość, która pozostała po proceduralnym podejściu i jest nieprawidłowym nawykiem, który skutkuje wynoszeniem zbyt dużych ilości informacji na zewnątrz klasy. Publiczne metody powinny określać możliwe interakcje z obiektem oraz prezentujące jego cechy.
 </details>
