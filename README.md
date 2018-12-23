@@ -27,6 +27,13 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   
 </details>
 
+<details>
+  <summary><b>Jaka jest różnica pomiędzy setUp() i setUpBeforeClass() w testach?</b></summary><br>
+  
+  - `setUp()` jest to metoda odpalana przed każdym kolejnym testem, po nim zaś wywoływane jest `tearDown()`
+  - `setUpBeforeClass()` to metoda, która wywoływana jest przed wszystkimi testami z danej klasy testowej i po przejściu wszystkich testów uruchamiane jest `tearDownAfterClass()`
+</details>
+
 ### 👨‍💻 Regular Software Developer
 
 <details>
