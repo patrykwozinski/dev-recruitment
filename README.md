@@ -1,4 +1,4 @@
-# Sprawdź swoje umiejętności związane z programowaniem obiektowym
+# OOP? A komu to potrzebne?
 <p align="center">
   "<i>I'm not a great programmer; I'm just a good programmer with great habits.</i>" ~ K. Beck
 </p>
