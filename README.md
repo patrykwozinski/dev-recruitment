@@ -40,28 +40,24 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   <summary><b>Czy znasz jakieś przykłady Test Double?</b></summary><br>
 
   Dummy, Fake, Stub, Spy, Mock. Służą do zaślepiania implementacji.
-
 </details>
 
 <details>
   <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
   
 Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono założenia poszukiwania usera. W niższych klasach należy to odpowiednio obsłużyć. Inną opcją jest zwrócenie `null`. Odpowiedzi takie jak: pusta klasa user, pusta lista, pusty array, `false` - to błąd.
-  
 </details>
 
 <details>
   <summary><b>Czy zasady związane z jakością oprogramowania dotyczą również testów?</b></summary><br>
   
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
-  
   </details>
   
  <details>
   <summary><b>Kiedy warto oznaczyć klasę jako finalną i w czym to pomaga?</b></summary><br>
   
   W momencie, gdy klasa jest już konkretną - dziedziczy po abstract lub implementuje interfejs. Blokuje to zbędne poziomy dziedziczenia i wymusza kompozycję.
-  
 </details> 
 
 <details>
@@ -74,8 +70,13 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   <summary><b>Jakie są zalety korzystania z NullObject pattern?</b></summary><br>
   
   Jest to świetne rozwiązanie problemu walki z wszędobylskimi nullami, odpalania metod na nullach i budowy wielu zbędnych ifów.
-  
 </details>
+
+<details>
+  <summary><b>Czym jest enkapsulacja i w jaki sposób pomagają w jej utrzymaniu Value Objecty zastępujące typy proste?</b></summary><br>
+  
+  Ukrywają one implementacje konkretnych zachowań używających natywnych funkcji języka, nadają wyższy poziom abstrakcji.
+</details>  
 
 ### 👨‍🏫 Senior Software Developer
 
@@ -83,5 +84,4 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
   
   Zachowaniem obiektu nie jest setowanie wartości, ale jest nim przykładowo `document->reassign(owner)` <- czyli coś, co mogłoby stać się z żywym obiektem.
-  
 </details>
