@@ -112,9 +112,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   <summary><b>Jakie istnieją typy wzorców projektowych?</b></summary><br>
   
   Wzorce projektowe (design patterns) dzielą się na trzy typy:
-  - wzorce kreacyjne (creational patterns)
-  - wzorce strukturalne (structural patterns)
-  - wzorce czynnościowe (behavioral patterns)
+  - **wzorce kreacyjne** (creational patterns)
+  - **wzorce strukturalne** (structural patterns)
+  - **wzorce czynnościowe** (behavioral patterns)
 </details>
 
 ###### Architektura aplikacji (1)
