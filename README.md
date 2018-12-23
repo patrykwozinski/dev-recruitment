@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://kinsta.com/wp-content/uploads/2017/03/wordpress-developer.png" alt="Logo"/>
+</p>
+
+<p align="center">
   "<i>I'm not a great programmer; I'm just a good programmer with great habits.</i>" ~ K. Beck
 </p>
 
