@@ -61,7 +61,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
   </details>
 
-###### Object Oriented Programming (4)
+###### Object Oriented Programming (5)
 
 <details>
   <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
@@ -88,7 +88,7 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>  
 
 <details>
-  <summary>Czy istnieje zestaw zasad, które pomagają w pisaniu poprawnego z punktu widzenia obiektowości kodu?</summary><br>
+  <summary><b>Czy istnieje zestaw zasad, które pomagają w pisaniu poprawnego z punktu widzenia obiektowości kodu?</b></summary><br>
   
  Jednym z zestawów zasad związanych z obiektowością jest **GRASP** - General Responsibility Assignment Software Principles, który składa się z dziewięciu reguł traktujących o tym w jaki sposób projektować kod i odpowiedzieć sobie na pytania: gdzie umieścić jakąś odpowiedzialność, do kogo przypisać odpowiedzialność, jak kierować zależności i wiele innych.
 </details>
