@@ -49,6 +49,13 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
   
   </details>
+  
+ <details>
+  <summary><b>Kiedy warto oznaczyć klasę jako finalną i w czym to pomaga?</b></summary><br>
+  
+  W momencie, gdy klasa jest już konkretną - dziedziczy po abstract lub implementuje interfejs. Blokuje to zbędne poziomy dziedziczenia i wymusza kompozycję.
+  
+</details> 
 
 ### 👨‍🚀 Senior Software Developer
 
