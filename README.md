@@ -76,7 +76,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
   </details>
 
-###### Object Oriented Programming (5)
+###### Object Oriented Programming (6)
 
 <details>
   <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
