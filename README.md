@@ -43,5 +43,12 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   
 </details>
 
+<details>
+  <summary><b>Czy zasady związane z jakością oprogramowania dotyczą również testów?</b></summary><br>
+  
+  Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
+  
+  </details>
+
 ### 👨‍🚀 Senior Software Developer
 
