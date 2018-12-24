@@ -22,7 +22,7 @@
 <p>
   &nbsp;&nbsp;🇬🇧 <a href="https://github.com/patrykwozinski/dev-recruitment/blob/master/README.md">wersja angielska</a>
   <br>
-  &nbsp;&nbsp;🇵🇱 <a href="https://github.com/patrykwozinski/dev-recruitment/blob/master/PL.md">wersja polska</a>
+  &nbsp;&nbsp;🇵🇱 <a href="https://github.com/patrykwozinski/dev-recruitment/blob/master/translations/PL.md">wersja polska</a>
 </p>
 
 <br>
