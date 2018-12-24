@@ -76,15 +76,15 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 ###### Application testing (2)
 
 <details>
-  <summary><b>Czy znasz jakieś przykłady Test Double?</b></summary><br>
+  <summary><b>What types of Test Doubles do you know?</b></summary><br>
 
-  Dummy, Fake, Stub, Spy, Mock. Służą do zaślepiania implementacji.
+  Dummy, Fake, Stub, Spy, Mock. They are used to plug the implementation.
 </details>
 
 <details>
-  <summary><b>Czy zasady związane z jakością oprogramowania dotyczą również testów?</b></summary><br>
+  <summary><b>Do the rules related to the quality of the software also apply to tests?</b></summary><br>
   
-  Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
+  Yes, the quality of the tests is as important as the quality of the application. It is also worth putting a lot of effort into their proper preparation, because poor quality tests are expensive to maintain and cause many problems.
   </details>
 
 ###### Object Oriented Programming (6)
@@ -96,9 +96,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
   
  <details>
-  <summary><b>Kiedy warto oznaczyć klasę jako finalną i w czym to pomaga?</b></summary><br>
+  <summary><b>When is it worth to mark the class as final and how does it help?</b></summary><br>
   
-  W momencie, gdy klasa jest już konkretną - dziedziczy po abstract lub implementuje interfejs. Blokuje to zbędne poziomy dziedziczenia i wymusza kompozycję.
+ At the moment when the class is already concrete - it inherits from the abstract or implements the interface. This blocks unnecessary levels of inheritance and forces the composition.
 </details> 
 
 <details>
@@ -137,9 +137,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 <details>
-  <summary><b>Jaka jest różnica między Active Records a ORM? Jakie są plusy i minusy korzystania z tych podejść? ***</b></summary><br>
+  <summary><b>What is the difference between Active Records and ORM? What are the pros and cons of using these approaches? ***</b></summary><br>
   
-  :warning: Brak odpowiedzi. Utwórz pull request i stań się kontrybutorem!
+  :warning: Missing answer. Create a pull request and become a contributor!
 </details>
 
 
@@ -148,9 +148,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 ###### Object Oriented Programming (2)
 
 <details>
-  <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
-  
-  Zachowaniem obiektu nie jest puste ustawianie wartości, ale jest nim przykładowo `document->reassign(owner)` <- czyli coś, co mogłoby stać się z żywym obiektem.
+  <summary><b>What is behavior of an object?</b></summary><br>  
+
+  Behavior of an object is a thing possible to the living creature. For example `document->reassign(owner)` - we can reassign new owner of a document. Getting and setting this information is not a behavior.
 </details>
 
 <details>
