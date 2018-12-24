@@ -102,9 +102,9 @@ The best way is to throw an exception, because the user's search assumption is n
 </details> 
 
 <details>
-  <summary><b>Jakie są zalety korzystania z NullObject pattern?</b></summary><br>
+  <summary><b>What are the advantages of using <code>NullObject</code> pattern?</b></summary><br>
   
-  Jest to świetne rozwiązanie problemu walki z wszędobylskimi nullami, odpalania metod na nullach i budowy wielu zbędnych ifów.
+  **NullObject** pattern is a great tool to fight with ubiquitous nulls, `NullPointerException` and creating useless if statements.
 </details>
 
 <details>
