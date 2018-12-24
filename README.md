@@ -39,21 +39,19 @@
 
 <br>
 
-## O projekcie
-Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać się w najbliższym czasie na rozmowy rekrutacyjne, a także osoby, które je przeprowadzają od strony technicznej.
+## About the project
+The project was created to support programmers who intend to go on recruitment interviews in the near future, as well as people who carry them out from the technical side.
 
-
-## Pytania rekrutacyjne
+## Recruitment questions
 
 
 ### 👨‍🎓 Junior Software Developer
 
 ###### PHP (1)
 <details>
-<summary><b>Jakie znasz sposoby dziedziczenia w PHP?</b></summary><br>
+<summary><b>What ways of inheriting in PHP do you know?</b></summary><br>
 
-W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z jednej klasy, oraz dziedziczenia z wielu miejsc poprzez `Trait`.
-  
+In a PHP exists inheriting by `extends` keyword from one class. We can also inherit from many places by `Trait`.  
 </details>
 
 ###### Testowanie aplikacji (1)
