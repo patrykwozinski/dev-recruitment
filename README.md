@@ -65,12 +65,22 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 
 ### 👨‍💻 Regular Software Developer
 
-###### PHP (1)
+###### PHP (2)
 
 <details>
   <summary><b>Czy znasz jakiś przykład, gdzie można zastosować klasy anonimowe w PHP?</b></summary><br>
   
   Świetnym miejscem do klas anonimowych są Stuby i inne test double gdzie nie interesuje nas to, jaki obiekt jest zwracany, a potrzebujemy bardzo łatwą jego implementację. Przykładowo `StubRepository` implementujący interfejs konkretnego repozytorium zależnie od tego, co przesyła nam w argumencie test, może budować odpowiednią klasę anonimową i ją zwracać.
+</details>
+
+<details>
+  <summary><b>What is the difference between <code>isset()</code>, <code>array_key_exists()</code> and <code>empty()</code>?</b></summary><br>
+  
+  - `isset()` checks if element has value including: `0`, empty string, `false`; return `false` when value is `null`
+  - `empty()` check if element is not empty and not zero value; return `true` for `null`, `0`, `false`, empty strings etc
+  - `array_key_exists()` checks only if array has specific key
+  
+  `isset()` and `empty()` are language constructions. `array_key_exists()` is a function.
 </details>
 
 ###### Application testing (2)
