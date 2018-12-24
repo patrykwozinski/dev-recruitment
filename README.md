@@ -8,7 +8,7 @@
 
 <p align="center">
 <sub>
-  Inspiracją do utworzenia poniższego zbioru pytań i odpowiedzi było repozytorium <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a>. Wersję dla developerów przygotował <a href="https://github.com/patrykwozinski">@patrykwozinski</a>. Wszelkie sugestie zmian, nowych pytań czy uzupełnień odpowiedzi bardzo miło widziane.
+  The inspiration to create the following set of questions and answers was <a href="https://github.com/trimstray/test-your-sysadmin-skills">Test your admin skills</a> repository. The developer version has been prepared by <a href="https://github.com/patrykwozinski">@patrykwozinski</a>. Any suggestions for changes, new questions or additions of answers are very welcome.
 </sub>
 </p>
 
@@ -31,11 +31,11 @@
 
 <br>
 
-:heavy_check_mark: &nbsp;Pytania są jedynie przykładami oraz początkowym wdrożeniem do tematu. Całkowite wyczerpanie tematu możliwe jest po wyszukaniu materiałów na własną rękę.
+:heavy_check_mark: &nbsp;Questions are only examples and initial implementation to the topic. Completely exhausting the topic is possible after searching for materials on your own.
 
-:warning: &nbsp;Pytania oznaczone **`***`** nie posiadają odpowiedzi, lub są one niekompletne. Miło widziane w takich przypadkach jest wystawienie **pull requestów** z sugerowanym rozwiązaniem problemów.
+:warning: &nbsp;Questions marked **`***`** do not have answers or they are incomplete. It is nice to see in such cases **pull requests** with the suggested problem solution.
 
-:traffic_light: &nbsp;W sytuacji, gdy znajdziesz pytanie, które nie ma większego sensu, lub zawiera nieprawidłowości w odpowiedzi - zrób pull request z sugerowanymi zmianami i stań się kontrybutorem projektu.
+:traffic_light: &nbsp;In a situation where you find a question that does not make much sense or contains incorrect answers - please do a pull request with suggested changes and become a project contributor.
 
 <br>
 
