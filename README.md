@@ -124,9 +124,9 @@ The best way is to throw an exception, because the user's search assumption is n
 </details>  
 
 <details>
-  <summary><b>Czy istnieje zestaw zasad, które pomagają w pisaniu poprawnego z punktu widzenia obiektowości kodu?</b></summary><br>
+  <summary><b>Do you know patterns which help in writing object oriented code?</b></summary><br>
   
- Jednym z zestawów zasad związanych z obiektowością jest **GRASP** - General Responsibility Assignment Software Principles, który składa się z dziewięciu reguł traktujących o tym w jaki sposób projektować kod i odpowiedzieć sobie na pytania: gdzie umieścić jakąś odpowiedzialność, do kogo przypisać odpowiedzialność, jak kierować zależności i wiele innych.
+  One of the sets of principles related to OOP is **GRASP** - General Responsibility Assignment Software Principles, which consists of nine rules about how to design a code and answer the questions: where to put some responsibility, who to assign responsibility to, how to manage dependencies and many more.
 </details>
 
 <details>
