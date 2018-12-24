@@ -131,9 +131,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 ###### Application architecture (1)
 
 <details>
-  <summary><b>Czym jest CQRS i jakie korzyści płyną z jego wykorzystania?</b></summary><br>
+  <summary><b>What is CQRS and what are the benefits of using it?</b></summary><br>
   
-  **Command-Query Responsibility Segregation** to podział modelu na model odczytu oraz model zapisu. Wykorzystując CQRS tworzymy komendy (`Commands`) oraz zapytania (`Queries`). Komenda nigdy nie zwraca wartości, a zapytanie nigdy nie modyfikuje danych.
+  **Command-Query Responsibility Segregation** is a separation of the model into read model and write model. Using CQRS we create `Commands` and `Queries`. Command is never returns anything and query only ask for something - it never modifies data.
 </details>
 
 <details>
