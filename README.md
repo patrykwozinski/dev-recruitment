@@ -18,6 +18,19 @@
 
 <br>
 
+<b>Available language versions:</b>
+<p>
+  &nbsp;&nbsp;🇬🇧 <a href="https://github.com/patrykwozinski/dev-recruitment/blob/master/README.md">English version</a>
+  <br>
+  &nbsp;&nbsp;🇬🇧 <a href="https://github.com/patrykwozinski/dev-recruitment/blob/master/PL.md">Polish version</a>
+</p>
+
+<br>
+
+***
+
+<br>
+
 :heavy_check_mark: &nbsp;Pytania są jedynie przykładami oraz początkowym wdrożeniem do tematu. Całkowite wyczerpanie tematu możliwe jest po wyszukaniu materiałów na własną rękę.
 
 :warning: &nbsp;Pytania oznaczone **`***`** nie posiadają odpowiedzi, lub są one niekompletne. Miło widziane w takich przypadkach jest wystawienie **pull requestów** z sugerowanym rozwiązaniem problemów.
