@@ -54,7 +54,7 @@ The project was created to support programmers who intend to go on recruitment i
 In a PHP exists inheriting by `extends` keyword from one class. We can also inherit from many places by `Trait`.  
 </details>
 
-###### Testowanie aplikacji (1)
+###### Application testing (1)
 <details>
   <summary><b>Jaka jest różnica pomiędzy <code>setUp()</code> i <code>setUpBeforeClass()</code> w testach?</b></summary><br>
   
@@ -73,7 +73,7 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
   Świetnym miejscem do klas anonimowych są Stuby i inne test double gdzie nie interesuje nas to, jaki obiekt jest zwracany, a potrzebujemy bardzo łatwą jego implementację. Przykładowo `StubRepository` implementujący interfejs konkretnego repozytorium zależnie od tego, co przesyła nam w argumencie test, może budować odpowiednią klasę anonimową i ją zwracać.
 </details>
 
-###### Testowanie aplikacji (2)
+###### Application testing (2)
 
 <details>
   <summary><b>Czy znasz jakieś przykłady Test Double?</b></summary><br>
@@ -120,15 +120,15 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 <details>
-  <summary><b>Jakie istnieją typy wzorców projektowych?</b></summary><br>
+  <summary><b>What types of design patterns do you know?</b></summary><br>
   
-  Wzorce projektowe (design patterns) dzielą się na trzy typy:
-  - **wzorce kreacyjne** (creational patterns)
-  - **wzorce strukturalne** (structural patterns)
-  - **wzorce czynnościowe** (behavioral patterns)
+  Design patterns are divided into three types:
+  - **creational patterns**
+  - **structural patterns**
+  - **behavioral patterns**
 </details>
 
-###### Architektura aplikacji (1)
+###### Application architecture (1)
 
 <details>
   <summary><b>Czym jest CQRS i jakie korzyści płyną z jego wykorzystania?</b></summary><br>
