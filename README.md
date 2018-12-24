@@ -79,7 +79,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 ###### Object Oriented Programming (6)
 
 <details>
-  <summary><b>Korzystasz na swoim repozytorium użytkowników z metody oneByUsername(username), która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
+  <summary><b>Korzystasz na swoim repozytorium użytkowników z metody <code>oneByUsername(username)</code>, która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
   
 Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono założenia poszukiwania usera. W niższych klasach należy to odpowiednio obsłużyć. Inną opcją jest zwrócenie `null`. Odpowiedzi takie jak: pusta klasa user, pusta lista, pusty array, `false` - to błąd.
 </details>
