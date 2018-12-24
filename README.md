@@ -90,9 +90,9 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 ###### Object Oriented Programming (6)
 
 <details>
-  <summary><b>Korzystasz na swoim repozytorium użytkowników z metody <code>oneByUsername(username)</code>, która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
+  <summary><b>You use your repository of users with <code>oneByUsername(username)</code> which is to find a user with the given name. What will you do when no results are returned?</b></summary><br>
   
-Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono założenia poszukiwania usera. W niższych klasach należy to odpowiednio obsłużyć. Inną opcją jest zwrócenie `null`. Odpowiedzi takie jak: pusta klasa user, pusta lista, pusty array, `false` - to błąd.
+The best way is to throw an exception, because the user's search assumption is not really met. Another way is returning `null` value. Anwers like: empty user object, empty list, empty array or `false` are incorrect.
 </details>
   
  <details>
