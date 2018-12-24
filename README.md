@@ -154,7 +154,7 @@ The best way is to throw an exception, because the user's search assumption is n
 </details>
 
 <details>
-  <summary><b>Jakie są minusy dodawania prefixów metod <code>get</code> / <code>set</code> w publicznych metodach obiektów?</b></summary><br>
+  <summary><b>What are the cons of adding <code>get</code> / <code>set</code> prefixes in public object methods?</b></summary><br>
   
-  Dodawanie prefixów takich jak `get` czy `set` blokuje nam możliwość czytania odpowiedzialności klas oraz ich cech. Gettery i settery to naleciałość, która pozostała po proceduralnym podejściu i jest nieprawidłowym nawykiem, który skutkuje wynoszeniem zbyt dużych ilości informacji na zewnątrz klasy. Publiczne metody powinny określać możliwe interakcje z obiektem oraz prezentujące jego cechy.
+  Adding prefixes such as `get` or `set` blocks us from being able to read the responsibility of classes and their characteristics. Getters and setters are procedural approach and are an incorrect habit that results in too much information being sent out of the class. Public methods should describe available interactions with an object and present his features.
 </details>
