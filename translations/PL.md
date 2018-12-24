@@ -46,7 +46,7 @@ Projekt został utworzony, aby wesprzeć programistów mających zamiar wybrać 
 ## Pytania rekrutacyjne
 
 
-### 👨‍🎓 Junior Software Developer
+### 👨‍🎓 Młodszy programista
 
 ###### PHP (1)
 <details>
@@ -65,7 +65,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 </details>
 
 
-### 👨‍💻 Regular Software Developer
+### 👨‍💻 Programista
 
 ###### PHP (1)
 
@@ -89,7 +89,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   Tak, jakość testów jest równie ważna jak jakość aplikacji. Także warto włożyć wiele starań w ich odpowiednie przygotowanie, gdyż testy słabej jakości są drogie w utrzymaniu i powodują wiele problemów.
   </details>
 
-###### Object Oriented Programming (6)
+###### Programowanie obiektowe (6)
 
 <details>
   <summary><b>Korzystasz na swoim repozytorium użytkowników z metody <code>oneByUsername(username)</code>, która ma za zadanie znaleźć użytkownika o podanym loginie. Co zrobisz w momencie, gdy nie zostaną zwrócone żadne rezultaty?</b></summary><br>
@@ -145,9 +145,9 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 
-### 👨‍🏫 Senior Software Developer
+### 👨‍🏫 Starszy programista
 
-###### Object Oriented Programming (2)
+###### Programowanie obiektowe (2)
 
 <details>
   <summary><b>Czym jest zachowanie obiektu?</b></summary><br>
