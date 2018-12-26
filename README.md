@@ -118,9 +118,9 @@ The best way is to throw an exception, because the user's search assumption is n
 </details>
 
 <details>
-  <summary><b>Czym jest enkapsulacja i w jaki sposób pomagają w jej utrzymaniu Value Objecty zastępujące typy proste?</b></summary><br>
+  <summary><b>What is encapsulation and and how does it help in obtaining Value Objects?</b></summary><br>
   
-  Ukrywają one implementacje konkretnych zachowań używających natywnych funkcji języka, nadają wyższy poziom abstrakcji. Dzięki Value Objectom jesteśmy w stanie określić konkretny stopień języka naturalnego, którym będziemy posługiwać się podczas rozwoju aplikacji.
+  Value Objects hides implementation of native language functions by using behaviors. They give a higher level of abstraction. Thanks to Value Objects, we are able to determine the specific level of natural language that we will use during application development.
 </details>  
 
 <details>
