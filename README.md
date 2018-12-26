@@ -68,9 +68,9 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 ###### PHP (2)
 
 <details>
-  <summary><b>Czy znasz jakiś przykład, gdzie można zastosować klasy anonimowe w PHP?</b></summary><br>
+  <summary><b>Do you know example of good place to use an anonymous class in PHP?</b></summary><br>
   
-  Świetnym miejscem do klas anonimowych są Stuby i inne test double gdzie nie interesuje nas to, jaki obiekt jest zwracany, a potrzebujemy bardzo łatwą jego implementację. Przykładowo `StubRepository` implementujący interfejs konkretnego repozytorium zależnie od tego, co przesyła nam w argumencie test, może budować odpowiednią klasę anonimową i ją zwracać.
+  A great place to use an anonymous class are Stubs and other test doubles where we are not interrested which object is returned. For example `StubRepository` which implements interface of concrete repository depending on provided parameters can create specific needed anonymous class.
 </details>
 
 <details>
