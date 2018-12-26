@@ -56,10 +56,10 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 
 ###### Application testing (1)
 <details>
-  <summary><b>Jaka jest różnica pomiędzy <code>setUp()</code> i <code>setUpBeforeClass()</code> w testach?</b></summary><br>
+  <summary><b>What is the difference between <code>setUp()</code> and <code>setUpBeforeClass()</code> in unit tests?</b></summary><br>
   
-  - `setUp()` jest to metoda odpalana przed każdym kolejnym testem, po nim zaś wywoływane jest `tearDown()`
-  - `setUpBeforeClass()` to metoda, która wywoływana jest przed wszystkimi testami z danej klasy testowej i po przejściu wszystkich testów uruchamiane jest `tearDownAfterClass()`
+  - `setUp()`  method called before every unit test in class, everytime after test `tearDown()` is called
+  - `setUpBeforeClass()` method called once before all tests in testing class, after all tests `tearDownAfterClass()` is called
 </details>
 
 
