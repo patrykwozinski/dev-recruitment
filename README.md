@@ -138,7 +138,7 @@ The best way is to throw an exception, because the user's search assumption is n
   - **behavioral patterns**
 </details>
 
-###### Application architecture (1)
+###### Application architecture (2)
 
 <details>
   <summary><b>What is CQRS and what are the benefits of using it?</b></summary><br>
