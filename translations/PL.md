@@ -140,7 +140,7 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
   - **wzorce czynnościowe** (behavioral patterns)
 </details>
 
-###### Architektura aplikacji (1)
+###### Architektura aplikacji (2)
 
 <details>
   <summary><b>Czym jest CQRS i jakie korzyści płyną z jego wykorzystania?</b></summary><br>
