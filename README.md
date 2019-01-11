@@ -65,7 +65,7 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 
 ### 👨‍💻 Regular Software Developer
 
-###### PHP (2)
+###### PHP (3)
 
 <details>
   <summary><b>Do you know example of good place to use an anonymous class in PHP?</b></summary><br>
