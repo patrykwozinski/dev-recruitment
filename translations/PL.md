@@ -67,7 +67,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 
 ### 👨‍💻 Programista
 
-###### PHP (2)
+###### PHP (3)
 
 <details>
   <summary><b>Czy znasz jakiś przykład, gdzie można zastosować klasy anonimowe w PHP?</b></summary><br>
@@ -84,6 +84,13 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   
   `isset()` i `empty()` są konstrukcjami językowymi, a `array_key_exists()` jest funkcją. Ta różnica jest delikatnie zauważalna w prędkości.
 </details>
+
+<details>
+  <summary><b>Jaka jest różnica między funkcjami językowymi, a konstrukcjami językowymi? Co jest szybsze?</b></summary><br>
+  
+  Natywne funkcje językowe są napisane w konkretnym języku programowania i są zdecydowanie wolniejsze od konstrukcji językowych, które napisane są w języku, w którym powstał sam język. Dla PHP jest to C.
+</details>
+
 
 ###### Testowanie aplikacji (2)
 

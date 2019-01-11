@@ -65,7 +65,7 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 
 ### 👨‍💻 Regular Software Developer
 
-###### PHP (2)
+###### PHP (3)
 
 <details>
   <summary><b>Do you know example of good place to use an anonymous class in PHP?</b></summary><br>
@@ -82,6 +82,13 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
   
   `isset()` and `empty()` are language constructions. `array_key_exists()` is a function.
 </details>
+
+<details>
+  <summary><b>What is the difference between language native function and language construction? What is faster?</b></summary><br>
+  
+  Native language functions are written in a specific programming language and are definitely slower than language constructs that are written in the language in which the language itself was created. For PHP this is C.
+</details>
+
 
 ###### Application testing (2)
 
