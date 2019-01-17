@@ -65,7 +65,7 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
 
 ### 👨‍💻 Regular Software Developer
 
-###### PHP (3)
+###### PHP (4)
 
 <details>
   <summary><b>Do you know example of good place to use an anonymous class in PHP?</b></summary><br>
@@ -87,6 +87,16 @@ In a PHP exists inheriting by `extends` keyword from one class. We can also inhe
   <summary><b>What is the difference between language native function and language construction? What is faster?</b></summary><br>
   
   Native language functions are written in a specific programming language and are definitely slower than language constructs that are written in the language in which the language itself was created. For PHP this is C.
+</details>
+
+<details>
+  <summary><b>Do you know any tools for static code analysis? How they helps you in your projects?</b></summary><br>
+
+  Tools for static code analysis in PHP examples:
+  - PHPstan
+  - PHPMetrics
+
+  Thanks to them, you can find many errors that do not even require the launch of applications or tests. They detect problems in the code and indicate ways to improve them. Static code analysis tools also help in learning new languages.
 </details>
 
 
