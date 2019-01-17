@@ -67,7 +67,7 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
 
 ### 👨‍💻 Programista
 
-###### PHP (3)
+###### PHP (4)
 
 <details>
   <summary><b>Czy znasz jakiś przykład, gdzie można zastosować klasy anonimowe w PHP?</b></summary><br>
@@ -89,6 +89,16 @@ W PHP istnieje możliwość dziedziczenia poprzez słowo kluczowe `extends` z je
   <summary><b>Jaka jest różnica między funkcjami językowymi, a konstrukcjami językowymi? Co jest szybsze?</b></summary><br>
   
   Natywne funkcje językowe są napisane w konkretnym języku programowania i są zdecydowanie wolniejsze od konstrukcji językowych, które napisane są w języku, w którym powstał sam język. Dla PHP jest to C.
+</details>
+
+<details>
+  <summary><b>Jakie znasz narzędzia do analizy kodu i w jaki sposób pomogły Ci w pracy?</b></summary><br>
+  
+  Narzędzia do analizy statycznej kodu w PHP, to między innymi:
+  - PHPstan
+  - PHPMetrics
+  
+  Dzięki nim można znaleźć wiele błędów, które nie wymagają nawet odpalenia aplikacji czy testów. Wykrywają problemy w kodzie i wskazują sposoby ich poprawy. Narzędzia do analizy statycznej kodu pomagają także w nauce nowych języków.
 </details>
 
 
