@@ -166,11 +166,13 @@ Najlepszą opcją jest rzucenie wyjątki, gdyż tak naprawdę nie spełniono za�
 </details>
 
 <details>
-  <summary><b>Jaka jest różnica między Active Records a ORM? Jakie są plusy i minusy korzystania z tych podejść? ***</b></summary><br>
+  <summary><b>Jaka jest różnica między Active Record a ORM? Jakie są plusy i minusy korzystania z tych podejść?</b></summary><br>
+  <b>ORM</b> w uproszeniu jest warstwą pomiędzy bazą danych a aplikacją. Natomiast <b>Active Record</b> jest jedną z implementacji <b>ORM</b>. Wyróżniamy dwie podstawowe implementacje <b>ORM</b>, <b>Active Record</b> oraz <b>Data Mapper</b>:
   
-  :warning: Brak odpowiedzi. Utwórz pull request i stań się kontrybutorem!
+  - <b>Active Record</b> cechuje się dziedziczeniem modelu ORM przy implementacji konkretnego obiektu i jest bezpośrednim odbiciem danego rekordu w bazie danych, dzięki czemu jest stosunkowo łatwy w implementacji. Jednakże sporym minusem jest złamanie zasady Single Respnsibility, ponieważ obiekt sam siebie zapisuje, oraz duży narzut na obiektach w postaci modelu. Dobrym miejscem do wykorzystania tego rozwiązania są CRUDy, aplikacje ze znikomą logiką biznesową czy prototypy. Przykładowe ORM - Django ORM, Eloquent, RoR ORM.
+  
+  - Natomiast przy <b>Data Mapper</b> obiekt jest całkowicie oderwany od bazy danych, nie dziedziczy po żadnym modelu ORM. Przez co musimy posiadać warstwę do komunikacji z bazą danych, np. Entity Manager. To daje nam możliwość oddzielenia obiektów od bazy danych oraz wydzielania odpowiedzialności do innych warstw abstrakcji, co z kolei pozwoli nam zachować większy porządek w kodzie. Jednakże implementacja tego rozwiązania będzie wymagała poświęcenia więcej uwagi przy analizie architektury oraz zabierze więcej czasu przy implementacji. Rozwiązanie jest zalecane dla większości aplikacji, gdzie pojawia się logika biznesowa, lub które będą w przyszłości rozbudowywane. Przykładowe ORM - Hibernate, Doctrine2.
 </details>
-
 
 ### 👨‍🏫 Starszy programista
 
